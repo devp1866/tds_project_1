@@ -1,4 +1,4 @@
-# GitHub User & Repository Insights: Berlin Edition
+# GitHub User & Repository Insights: Berlin:200
 
 ### Quick Highlights
 
