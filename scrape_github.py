@@ -15,7 +15,7 @@ BASE_URL = "https://api.github.com"
 def fetch_users():
     users = []
     page = 1
-    print("Fetching users in Bangalore with over 100 followers...")
+    print("Fetching users in Berlin with over 200 followers...")
     while True:
         url = f"{BASE_URL}/search/users?q=location:Berlin+followers:>200&per_page=100&page={page}"
         response = requests.get(url, headers=HEADERS)
