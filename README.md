@@ -8,6 +8,6 @@
 
 ### Additional Information
 
-This project includes:
+This project creates :
 - **users.csv** — Profiles of users, including bio, company, follower stats, and location.
 - **repositories.csv** — Repository data such as stars, primary language, and licensing.
